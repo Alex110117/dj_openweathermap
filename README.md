@@ -1,1 +1,1 @@
-# dj_openweathermap
+# django OpenWeatherMap
