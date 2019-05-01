@@ -1,1 +1,1 @@
-# django OpenWeatherMap
+# dj OpenWeatherMap
